@@ -1,0 +1,347 @@
+div.contact-widget{
+  border: 1px solid black;
+  width: 250px;
+  border-radius: 15px;
+  background: linear-gradient(#2d2b2d, #1b191b, #2d2b2d, #1b191b, #2d2b2d, #1b191b);
+  display: table;
+}
+
+h4{
+  padding-left: 5px;
+  color: #eae8ea;
+}
+
+/* -------------------- Contact Info Divs ----------------------------*/
+div.contact-info0{
+  border: 1px solid black;
+  background-color: #222022;
+  display: table-row;
+}
+div.contact-info1{
+  border: 1px solid black;
+  background-color: #1b191b;
+  display: table-row;
+}
+div.contact-info2{
+  border: 1px solid black;
+  background-color: #222022;
+  display: table-row;
+}
+div.contact-info3{
+  border: 1px solid black;
+  background-color: #1b191b;
+  display: table-row;
+}
+div.contact-info4{
+  border: 1px solid black;
+  background-color: #222022;
+  display: table-row;
+}
+div.contact-info5{
+  border: 1px solid black;
+  background-color: #1b191b;
+  display: table-row;
+}
+div.contact-info6{
+  border: 1px solid black;
+  background-color: #222022;
+  display: table-row;
+}
+div.contact-info7{
+  border: 1px solid black;
+  background-color: #1b191b;
+  display: table-row;
+}
+/* ------------------------------------------------*/
+
+
+div.online-status{
+  border: 1px solid black;
+  display: table-cell;
+}
+/* -------------------- Circle Variations ----------------------------*/
+.circle0:before {
+  content: ' \25CF';
+  color: #00ff1e;
+  font-size: 20px;
+}
+.circle1:before {
+  content: ' \25CF';
+  color: #00ff1e;
+  font-size: 20px;
+}
+.circle2:before {
+  content: ' \25CF';
+  color: #00ff1e;
+  font-size: 20px;
+}
+.circle3:before {
+  content: ' \25CF';
+  color: #00ff1e;
+  font-size: 20px;
+}
+.circle4:before {
+  content: ' \25CF';
+  color: #ff0000;
+  font-size: 20px;
+}
+.circle5:before {
+  content: ' \25CF';
+  color: #fffc00;
+  font-size: 20px;
+}
+.circle6:before {
+  content: ' \25CF';
+  color: #00ff1e;
+  font-size: 20px;
+}
+.circle7:before {
+  content: ' \25CF';
+  color: #fffc00;
+  font-size: 20px;
+}
+
+/* ------------------- Contact Name Divs -----------------------------*/
+div.contact-name0{
+  border: 1px solid black;
+  padding-left: 10px;
+  padding: 5px;
+  color: #dfdfdf;
+  display: table-cell;
+}
+div.contact-name1{
+  border: 1px solid black;
+  padding-left: 10px;
+  padding: 5px;
+  color: #dfdfdf;
+  display: table-cell;
+}
+div.contact-name2{
+  border: 1px solid black;
+  padding-left: 10px;
+  padding: 5px;
+  color: #dfdfdf;
+  display: table-cell;
+}
+div.contact-name3{
+  border: 1px solid black;
+  padding-left: 10px;
+  padding: 5px;
+  color: #dfdfdf;
+  display: table-cell;
+}
+div.contact-name4{
+  border: 1px solid black;
+  padding-left: 10px;
+  padding: 5px;
+  color: #dfdfdf;
+  display: table-cell;
+}
+div.contact-name5{
+  border: 1px solid black;
+  padding-left: 10px;
+  padding: 5px;
+  color: #dfdfdf;
+  display: table-cell;
+}
+div.contact-name6{
+  border: 1px solid black;
+  padding-left: 10px;
+  padding: 5px;
+  color: #dfdfdf;
+  display: table-cell;
+}
+div.contact-name7{
+  border: 1px solid black;
+  padding-left: 10px;
+  padding: 5px;
+  color: #dfdfdf;
+  display: table-cell;
+}
+
+/* -------------------Contact Email Divs -----------------------------*/
+div.contact-email0{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-email1{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-email2{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-email3{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-email4{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-email5{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-email6{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-email7{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+/* -------------------- Contact Phone Divs ----------------------------*/
+div.contact-phone0{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-phone1{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-phone2{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-phone3{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-phone4{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-phone5{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-phone6{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+div.contact-phone7{
+  border: 1px solid black;
+  padding: 5px;
+  color: #3d3a3d;
+  width: 100%;
+  display: table-cell;
+}
+/* ------------------Click Content Divs ------------------------------*/
+div.click-content0{
+  border: 1px solid black;
+  padding: 5px;
+  color: #dfdfdf;
+  width: 100%;
+  display: table-cell;
+}
+div.click-content1{
+  border: 1px solid black;
+  padding: 5px;
+  color: #dfdfdf;
+  width: 100%;
+  display: table-cell;
+}
+div.click-content2{
+  border: 1px solid black;
+  padding: 5px;
+  color: #dfdfdf;
+  width: 100%;
+  display: table-cell;
+}
+div.click-content3{
+  border: 1px solid black;
+  padding: 5px;
+  color: #dfdfdf;
+  width: 100%;
+  display: table-cell;
+}
+div.click-content4{
+  border: 1px solid black;
+  padding: 5px;
+  color: #dfdfdf;
+  width: 100%;
+  display: table-cell;
+}
+div.click-content5{
+  border: 1px solid black;
+  padding: 5px;
+  color: #dfdfdf;
+  width: 100%;
+  display: table-cell;
+}
+div.click-content6{
+  border: 1px solid black;
+  padding: 5px;
+  color: #dfdfdf;
+  width: 100%;
+  display: table-cell;
+}
+div.click-content7{
+  border: 1px solid black;
+  padding: 5px;
+  color: #dfdfdf;
+  width: 100%;
+  display: table-cell;
+}
+/* ------------------------------------------------*/
+.active {
+  background-color: #494749;
+}
+.activeToggle {
+  background-color: #494749;
+  z-index: +1;
+}
+
+#contact-toggle{
+  float: right;
+}
+div.contact-footer{
+  height: 45px;
+}
